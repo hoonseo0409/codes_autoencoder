@@ -35,7 +35,7 @@ python3 main.py
 ```
 A folder will be created under the `./outputs`, containing all the experimental results.
 
-### Trouble shooting for m1 silicon mac
+### Trouble shooting for M1 silicon Mac
 * Install brew, miniforge (ref: https://towardsdatascience.com/how-to-easily-set-up-python-on-any-m1-mac-5ea885b73fab)
 * install Python 3.8.13 with conda, and create virtual env.
 * install packages under requirements.txt
